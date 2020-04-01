@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "413926791790",
+    "firebase_url": "https://chat-online-servico.firebaseio.com",
+    "project_id": "chat-online-servico",
+    "storage_bucket": "chat-online-servico.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413926791790:android:94328bcabc30af25",
+        "android_client_info": {
+          "package_name": "br.com.minete.chatonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413926791790-js1jj34pjrbonprmlc8qs4lbvhn6qpbh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.minete.chatonline",
+            "certificate_hash": "a2c1c010a9334aab55c2a533f55641084d03dc38"
+          }
+        },
+        {
+          "client_id": "413926791790-pshuejhprkv3m0dtlav2jajpqmk9pmq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT07dyjSIln3m07pl1kX_M2vG3tFqUIRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413926791790-pshuejhprkv3m0dtlav2jajpqmk9pmq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
